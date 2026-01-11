@@ -48,7 +48,7 @@ const Layout: React.FC<LayoutProps> = ({ user, children, activeTab, setActiveTab
     <>
       <div className="p-6">
         <img 
-          src="studylinklogo.png" 
+          src="/logo/studylinklogo.png" 
           alt="Study Link" 
           className="w-full max-w-[180px] h-auto object-contain"
         />

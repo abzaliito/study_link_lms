@@ -47,7 +47,7 @@ const App: React.FC = () => {
         <div className="bg-white dark:bg-slate-900 w-full max-w-md rounded-[2.5rem] shadow-2xl p-10 md:p-14 relative z-10 animate-in fade-in zoom-in duration-500 border dark:border-slate-800 transition-colors">
           <div className="text-center mb-8 flex flex-col items-center">
              <img 
-               src="studylinklogo.png" 
+               src="/logo/studylinklogo.png" 
                alt="Study Link" 
                className="w-full max-w-[220px] h-auto object-contain mb-4"
              />
