@@ -47,7 +47,7 @@ const Layout: React.FC<LayoutProps> = ({ user, children, activeTab, setActiveTab
   const SidebarContent = () => (
     <>
       <div className="p-6">
-        <img 
+        <img //photo
           src="/logo/studylinklogo.png" 
           alt="Study Link" 
           className="w-full max-w-[180px] h-auto object-contain"
